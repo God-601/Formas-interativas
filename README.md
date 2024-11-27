@@ -10,4 +10,4 @@ Um jogo interativo de física onde você pode criar, colorir e juntar diferentes
 - Simulação de física realista
 
 ## Como Instalar
-1. Clone o repositório: 
+1. Clone o repositório:
