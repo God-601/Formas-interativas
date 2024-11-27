@@ -1,4 +1,4 @@
-# Construtor de Formas
+# Formas-interativas
 
 Um jogo interativo de física onde você pode criar, colorir e juntar diferentes formas geométricas.
 
@@ -12,4 +12,3 @@ Um jogo interativo de física onde você pode criar, colorir e juntar diferentes
 ## Como Instalar
 1. Clone o repositório:
 
-# Formas-interativas
